@@ -5,6 +5,12 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinEnvManager", "WinEnvManager\WinEnvManager.csproj", "{A15A777C-5C4A-425E-A663-5A2B8FB5AD12}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Éléments de solution", "Éléments de solution", "{EF26C4BE-D4EA-4915-8076-76B70386A6EA}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.MD = README.MD
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
